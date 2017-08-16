@@ -1,3 +1,3 @@
 # Tutorial
 
-Twitter Sentiment Analysis
+Project on Twitter Sentiment Analysis
