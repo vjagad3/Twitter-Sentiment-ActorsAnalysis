@@ -29,6 +29,7 @@ def main():
 		t= str(float(dict1[w])/count) #'%.5f'%(dict1[w]/count) 
 		print (w,' ',t)
 		print ("world")
+		print ("hello")
 		i=i+1
 		
 
